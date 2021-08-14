@@ -29,8 +29,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=adobe-indesign)
@@ -52,10 +52,10 @@
 <a href="https://tanujwagadre.netlify.com"><img src="https://img.shields.io/badge/-tanujwagaddre.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tanujwagadre/"><img src="https://img.shields.io/badge/-Tanuj%20wagadre-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tanujwagadre.11@gmail.com"><img src="https://img.shields.io/badge/-tanujwagadre.11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/i_m__tanuj"><img src="https://img.shields.io/badge/-@tanuj__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tanuj.wagadre.3/"><img src="https://img.shields.io/badge/-@Tanuj-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://in.pinterest.com/i_m_tanuj"><img src="https://img.shields.io/badge/-@Tanuj-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-@Tanuj-1769FF?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/i_m__tanuj"><img src="https://img.shields.io/badge/-tanuj__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/tanuj.wagadre.3/"><img src="https://img.shields.io/badge/-Tanuj-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://in.pinterest.com/i_m_tanuj"><img src="https://img.shields.io/badge/-Tanuj-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-Tanuj-1769FF?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
 -----
