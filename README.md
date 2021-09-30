@@ -43,6 +43,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=i-tanuj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=i-tanuj&show_icons=true&theme=gotham" alt="Tanuj wagadre | Stats" />
+
+</details>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
