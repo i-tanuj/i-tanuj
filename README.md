@@ -44,11 +44,7 @@
 </a>
 </p>
 <details>
-<summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=i-tanuj&show_icons=true&theme=gotham" alt="Tanuj wagadre | Stats" />
-
-</details>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
