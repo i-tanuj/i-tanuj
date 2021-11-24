@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at tanujwagadre.11@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://tanujwagadre.netlify.app/CV_Tanuj_wagadre.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/i-tanuj/i-tanuj/master/assets/logo.png" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/i-tanuj/i-tanuj/master/assets/Binary code-pana.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
