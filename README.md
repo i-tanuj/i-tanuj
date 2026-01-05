@@ -91,7 +91,7 @@ I focus on writing clean, scalable code and delivering real-world solutions — 
 
 - 💼 LinkedIn: [linkedin.com/in/tanujwagadre](https://www.linkedin.com/in/tanujwagadre)
 - 📧 Email: tanujwagadre.11@gmail.com
-- 🌐 Portfolio: https://devtanuj.vercel.app
+- 🌐 Portfolio: https://tanujwagadre.store
 
 ---
 
